@@ -1,16 +1,50 @@
-## Hi there 👋
+## Hi 👋
 
-<!--
-**Paula-Gal/Paula-Gal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build small tools at the intersection of AI, software, and decision-making.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Interests
+
+`Impact-driven innovation` `Venture Capital & Startups` `Applied AI`  
+`Developer Tools` `Cloud Infrastructure` `Distributed Systems`  
+`Deep Tech` `Data Infrastructure`
+
+---
+
+## 💻 Tech Stack
+
+An overview of the tools I work with — always learning and adapting.
+
+### Programming Languages
+`Python` `TypeScript` `JavaScript` `Java` `SQL`
+
+---
+
+### Frameworks & Tools
+`React` `Next.js` `Spring Boot` `GraphQL`  
+`LangChain` `PyTorch` `TensorFlow`
+
+---
+
+### Cloud & Infrastructure
+`Docker` `Kubernetes` `PostgreSQL` `MongoDB`  
+`Elasticsearch` `NGINX`
+
+---
+
+## 🚀 Selected Projects
+
+- **OSS Signal Scout** — analyze GitHub repos as early technical signals  
+- **Tool Recommender Agent** — local LangChain + Ollama agent for product stack decisions  
+- **Paper → Product** — translate research into real-world applications  
+
+---
+
+## 🔍 Currently exploring
+
+- agent-based systems  
+- local LLMs (Ollama)  
+- structured reasoning with LangChain  
+
+---
