@@ -1,6 +1,5 @@
-## Hi 👋
+## Hi 🏌️‍♀️
 
-Learning by building.
 ---
 
 ## 🧠 Interests
@@ -13,7 +12,7 @@ Learning by building.
 
 ## 💻 Tech Stack
 
-An overview of the tools I work with — always learning and adapting.
+An overview of the tools I work with
 
 ### Programming Languages
 `Python` `TypeScript` `JavaScript` `Java` `SQL`
@@ -43,7 +42,9 @@ An overview of the tools I work with — always learning and adapting.
 ## 🔍 Currently exploring
 
 - agent-based systems  
-- local LLMs (Ollama)  
-- structured reasoning with LangChain  
+- LLMs 
+- structured reasoning with LangChain
+- biotech
+- AI and emergencing technologies
 
 ---
