@@ -31,20 +31,14 @@ An overview of the tools I work with
 
 ---
 
-## 🚀 Selected Projects
-
-- **OSS Signal Scout** — analyze GitHub repos as early technical signals  
-- **Tool Recommender Agent** — local LangChain + Ollama agent for product stack decisions  
-- **Paper → Product** — translate research into real-world applications  
-
----
-
 ## 🔍 Currently exploring
 
 - agent-based systems  
 - LLMs 
 - structured reasoning with LangChain
 - biotech
+- data engineering
+- distributed systems
 - AI and emergencing technologies
 
 ---
