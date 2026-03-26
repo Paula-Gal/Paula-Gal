@@ -1,6 +1,6 @@
 ## Hi 👋
 
-`Curious, building, and learning along the way.`
+Learning by building.
 ---
 
 ## 🧠 Interests
