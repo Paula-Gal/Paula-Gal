@@ -1,7 +1,6 @@
 ## Hi 👋
 
-I build small tools at the intersection of AI, software, and decision-making.
-
+Curious, building, and learning along the way.
 ---
 
 ## 🧠 Interests
