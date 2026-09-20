@@ -1,6 +1,6 @@
 ## Hi, I'm Paula 👋
 
-Software engineer with experience across backend development, cloud systems, data engineering and applied AI.
+Software engineer with experience across backend development, cloud systems, data engineering
 
 I'm currently pursuing an MSc in AI in Biomedicine at the Technical University of Munich, with a growing focus on healthcare software, clinical data and AI-enabled systems.
 
