@@ -41,4 +41,4 @@ I'm currently pursuing an MSc in AI in Biomedicine at the Technical University o
 - data platforms and distributed systems
 ---
 
-Always curious, always building, and increasingly focused on technology that can improve healthcare.
+Always curious, always building, and focused on technology that can improve healthcare.
