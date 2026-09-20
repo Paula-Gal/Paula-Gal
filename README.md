@@ -39,26 +39,6 @@ I'm currently pursuing an MSc in AI in Biomedicine at the Technical University o
 - retrieval-augmented generation and agentic workflows
 - computational biology and biotech
 - data platforms and distributed systems
-
----
-
-## 🛠 Selected Projects
-
-- **[distributed-scheduler](https://github.com/Paula-Gal/distributed-scheduler)**  
-  Python-based simulator for distributed task scheduling, with Kubernetes experiments across heterogeneous resource scenarios.
-
-- **[sketch-to-clinic](https://github.com/Paula-Gal/sketch-to-clinic)**  
-  Prototype exploring digital tools for improving access to patient information and clinical workflows.
-
-- **[databricks-experiments](https://github.com/Paula-Gal/databricks-experiments)**  
-  Experiments around data processing and engineering workflows with Databricks.
-
-- **[dna-sequence-analysis](https://github.com/Paula-Gal/dna-sequence-analysis)**  
-  Exploratory bioinformatics work focused on DNA sequence analysis.
-
-- **[startup-analyzer](https://github.com/Paula-Gal/startup-analyzer)**  
-  LLM-based analysis workflow using LangChain and retrieval techniques.
-
 ---
 
 Always curious, always building, and increasingly focused on technology that can improve healthcare.
